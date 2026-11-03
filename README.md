@@ -1,19 +1,19 @@
 # DL Móveis Planejados
 
-Site institucional estático inspirado no modelo da JC, com identidade DL em grafite e dourado fosco.
+Site institucional estático com composição inspirada no Efrata e identidade própria da DL.
 
-## Conteúdo
+## Recursos
 
-13 fotos reais, filtros por ambiente, galeria ampliável, avaliações fornecidas, localização e formulário de orçamento que abre o WhatsApp para revisão e envio.
+Cabeçalho fixo, faixa de destaque, cards de ambientes, formulário com seleção de ambiente, 13 fotos reais com filtros e detalhes em modal, avaliações do Google, etapas de atendimento e FAQ. O formulário abre uma mensagem no WhatsApp para o visitante revisar e enviar.
 
-## Uso
+## Publicação
 
-Abra `index.html` em um navegador ou sirva esta pasta em qualquer hospedagem estática. No GitHub Pages, use a branch `main` e a pasta raiz (`/`). Não requer instalação ou compilação.
+Abra `index.html` ou use qualquer hospedagem estática. Não requer instalação ou compilação. No GitHub Pages, selecione `main` e a raiz (`/`).
 
 ## Identidade
 
-Logotipo vetorial em `assets/logo.svg`, ícone em `assets/favicon.svg`. Paleta: grafite `#202728`, dourado fosco `#C9AB70`, linho `#F3EFE7`.
+Bege `#F3EBDD`, vinho `#642A3A` e dourado `#C9AB70`. Logotipo vetorial em `assets/logo.svg` e versão para fundo escuro em `assets/logo-light.svg`. Estilos base em `styles.css` e composição atual em `enhancements.css`.
 
-## Fontes dos dados
+## Dados
 
-Fotos e referências de marca fornecidas pelo responsável pelo projeto. Endereço, telefone, nota e trechos das avaliações transcritos dos prints do Google Maps fornecidos, de outubro de 2026. Horários completos não informados; o site direciona para consulta. Links do Instagram e Google Maps fornecidos pelo responsável.
+Fotos, marca, contatos, nota e trechos de avaliações fornecidos pelo responsável pelo projeto. Os dados do Google foram transcritos dos prints de outubro de 2026. Horários completos não informados; consulte o link do Google ou o telefone.

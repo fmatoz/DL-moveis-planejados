@@ -51,7 +51,7 @@
 (() => {
   const dialog = document.getElementById('demo-dialog');
   const reopen = document.getElementById('demo-reopen');
-  const key = 'dl-m7-demo-seen-v1';
+
   let previousOverflow = '';
   function openDemo(){ previousOverflow = document.body.style.overflow; dialog.showModal(); document.body.style.overflow = 'hidden'; }
   function closeDemo(){ dialog.close(); }
@@ -59,8 +59,9 @@
   document.getElementById('demo-continue').addEventListener('click',closeDemo);
   reopen.addEventListener('click',openDemo);
   dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeDemo();}});
-  dialog.addEventListener('close',()=>{ document.body.style.overflow=previousOverflow; try{sessionStorage.setItem(key,'1');}catch{} });
-  let seen=false; try{seen=sessionStorage.getItem(key)==='1';}catch{}
-  if(!seen)openDemo();
+  dialog.addEventListener('close',()=>{ document.body.style.overflow=previousOverflow; });
+
+  openDemo();
 })();
+
 

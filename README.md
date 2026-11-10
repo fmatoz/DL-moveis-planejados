@@ -4,7 +4,7 @@ Site institucional estático com composição inspirada no Efrata e identidade p
 
 ## Recursos
 
-Cabeçalho fixo, faixa de destaque, cards de ambientes, formulário com seleção de ambiente, 13 fotos reais com filtros e detalhes em modal, avaliações do Google, etapas de atendimento e FAQ. O formulário abre uma mensagem no WhatsApp para o visitante revisar e enviar.
+Cabeçalho fixo, faixa de destaque, cards de ambientes, formulário com seleção de ambiente, 20 fotos reais com filtros e detalhes em modal, avaliações do Google, etapas de atendimento e FAQ. O formulário abre uma mensagem no WhatsApp para o visitante revisar e enviar.
 
 ## Publicação
 
@@ -16,4 +16,4 @@ Bege `#F3EBDD`, vinho `#642A3A` e dourado `#C9AB70`. Logotipo vetorial em `asset
 
 ## Dados
 
-Fotos, marca, contatos, nota e trechos de avaliações fornecidos pelo responsável pelo projeto. Os dados do Google foram transcritos dos prints de outubro de 2026. Horários completos não informados; consulte o link do Google ou o telefone.
+Fotos, marca, contatos, nota e trechos de avaliações fornecidos pelo responsável pelo projeto. Os dados do Google foram transcritos dos prints de outubro de 2026. As 20 fotos atuais dos projetos foram fornecidas em 10 de novembro de 2026 e substituem integralmente a galeria anterior. Horários completos não informados; consulte o link do Google ou o telefone.
